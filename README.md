@@ -1,2 +1,2 @@
 # MiPrimerRepositorio
-Esto es un repositorio de ejemplo.
+Este repositorio es una prueba
